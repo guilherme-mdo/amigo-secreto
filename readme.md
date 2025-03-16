@@ -1,0 +1,2 @@
+Olá, esse é um projeto de um amigo secreto. <br>
+Nesse projeto, eu vou criar um sistema de sorteio de um amigo secreto simples onde podemos inserir os nomes um de cada vez e o sistema irá sortear um nome aleatório para o amigo secreto. <br>
